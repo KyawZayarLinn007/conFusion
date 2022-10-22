@@ -1,0 +1,1 @@
+export const baseUrl = 'https://confusion-restaurant-app.herokuapp.com/';
