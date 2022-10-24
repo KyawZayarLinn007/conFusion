@@ -11,16 +11,20 @@ https://www.coursera.org/account/accomplishments/specialization/RP5VFJH3QYFX
 clone the project
 
 ```bash
-https://github.com/KyawZayarLinn007/conFusion.git
+git clone https://github.com/KyawZayarLinn007/conFusion.git
 ```
 
 add the following environment variable to your .env file
 
-`mongoUrl`
+```bash
+mongoUrl
+```
 
 change the variable from client/src/shared/baseUrl.js
 
-`baseUrl` to `localhost:3000`
+```bash
+baseUrl="localhost:3000"
+```
 
 run the following scripts from the root folder
 
@@ -65,6 +69,7 @@ password: "password"
 username: "admin"
 
 password: "password"
+
 ## Author
 
 - [@Kyaw Zayar Linn](https://www.github.com/KyawZayarLinn007)
