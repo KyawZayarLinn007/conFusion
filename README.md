@@ -29,7 +29,7 @@ run the following scripts from the root folder
 ```
 
 ```bash
-  npm run install client
+  npm run install-client
 ```
 
 ```bash
